@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Aleksander Smok. I am a 👨‍💻 wannabe backend developer and last term studenbt of Computer Science. Currently based in Wroclaw, Poland.
+I am Aleksander Smok. I am a wannabe backend developer 👨‍💻  and last term student of Computer Science. Currently based in Wroclaw, Poland.
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png"></code>
